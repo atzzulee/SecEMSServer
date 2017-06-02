@@ -1,0 +1,4 @@
+c:\dev\SecEMSServer\SecEMSServer\bin\Debug\SecEMSServer.exe
+c:\dev\SecEMSServer\SecEMSServer\bin\Debug\SecEMSServer.pdb
+c:\dev\SecEMSServer\SecEMSServer\obj\x86\Debug\SecEMSServer.exe
+c:\dev\SecEMSServer\SecEMSServer\obj\x86\Debug\SecEMSServer.pdb
