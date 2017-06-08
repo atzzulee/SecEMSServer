@@ -2,3 +2,5 @@ c:\dev\SecEMSServer\SecEMSServer\bin\Debug\SecEMSServer.exe
 c:\dev\SecEMSServer\SecEMSServer\bin\Debug\SecEMSServer.pdb
 c:\dev\SecEMSServer\SecEMSServer\obj\x86\Debug\SecEMSServer.exe
 c:\dev\SecEMSServer\SecEMSServer\obj\x86\Debug\SecEMSServer.pdb
+D:\002. 프로젝트\010. 캠퍼스그리드\SecEMSServer\SecEMSServer\obj\x86\Debug\SecEMSServer.exe
+D:\002. 프로젝트\010. 캠퍼스그리드\SecEMSServer\SecEMSServer\obj\x86\Debug\SecEMSServer.pdb
